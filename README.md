@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Luis Felipe G Silva
+# 😎 Luis Felipe G Silva
 
 **`Desenvolvedor Front-end e Mobile`**
 
