@@ -105,6 +105,14 @@ Desenvolvedor apaixonado por tecnologia com mais de 3 anos de experiência em de
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
 />
+<img
+    align="left"
+    alt="Nuxtjs"
+    title="Nuxtjs"
+    width="35px"
+    style="padding-right: 10px;" 
+    src="ttps://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" 
+/>
 </div>
 
 <br clear="left"/>
@@ -156,6 +164,14 @@ Desenvolvedor apaixonado por tecnologia com mais de 3 anos de experiência em de
     width="35px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+<img
+    align="left"
+    alt="Supabase"
+    title="Supabase"
+    width="35px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"
 />
 <img
     align="left"
