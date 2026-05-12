@@ -111,7 +111,7 @@ Desenvolvedor apaixonado por tecnologia com mais de 3 anos de experiência em de
     title="Nuxtjs"
     width="35px"
     style="padding-right: 10px;" 
-    src="ttps://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" 
 />
 </div>
 
