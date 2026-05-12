@@ -59,6 +59,14 @@ Desenvolvedor apaixonado por tecnologia com mais de 3 anos de experiência em de
 />
 <img 
     align="left" 
+    alt="Angular" 
+    title="Angular"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="35px" 
